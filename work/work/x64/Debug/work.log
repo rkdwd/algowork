@@ -1,7 +1,0 @@
-﻿  bj_1010_2024.3.24.cpp
-  oj_1053_2024.2.17.cpp
-  oj_1054_2024.2.17.cpp
-D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\oj_1054_2024.2.17.cpp(16,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  oj_1055_2024.2.17.cpp
-  코드를 생성하고 있습니다...
-  work.vcxproj -> D:\강지원\컴퓨터 학원\ALGO\algowork\work\x64\Debug\work.exe
