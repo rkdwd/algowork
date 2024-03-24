@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main_bj_1010() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);
