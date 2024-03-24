@@ -1,0 +1,11 @@
+﻿  bj_17610.cpp
+  bj_18870.cpp
+  Bronze_AD.cpp
+  oj_4005.cpp
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\Bronze_AD.cpp(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\oj_4005.cpp(23,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\oj_4005.cpp(26,31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bj_15649.cpp
+  test.cpp
+  코드를 생성하고 있습니다...
+  work.vcxproj -> D:\강지원\컴퓨터 학원\ALGO\algowork\work\x64\Debug\work.exe
