@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1058_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|solutionrelative:work\\oj_1058_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1057_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|solutionrelative:work\\oj_1057_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1056_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|solutionrelative:work\\oj_1056_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1055_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|solutionrelative:work\\oj_1055_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1054_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|solutionrelative:work\\oj_1054_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1053_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|solutionrelative:work\\oj_1053_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\bj_1010_2024.3.24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|solutionrelative:work\\bj_1010_2024.3.24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "oj_1058_2024.2.17.cpp",
+              "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1058_2024.2.17.cpp",
+              "RelativeDocumentMoniker": "work\\oj_1058_2024.2.17.cpp",
+              "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1058_2024.2.17.cpp",
+              "RelativeToolTip": "work\\oj_1058_2024.2.17.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T11:32:39.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "oj_1057_2024.2.17.cpp",
+              "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1057_2024.2.17.cpp",
+              "RelativeDocumentMoniker": "work\\oj_1057_2024.2.17.cpp",
+              "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1057_2024.2.17.cpp",
+              "RelativeToolTip": "work\\oj_1057_2024.2.17.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T11:32:08.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "oj_1056_2024.2.17.cpp",
+              "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1056_2024.2.17.cpp",
+              "RelativeDocumentMoniker": "work\\oj_1056_2024.2.17.cpp",
+              "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1056_2024.2.17.cpp",
+              "RelativeToolTip": "work\\oj_1056_2024.2.17.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T11:31:39.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "oj_1055_2024.2.17.cpp",
+              "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1055_2024.2.17.cpp",
+              "RelativeDocumentMoniker": "work\\oj_1055_2024.2.17.cpp",
+              "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1055_2024.2.17.cpp",
+              "RelativeToolTip": "work\\oj_1055_2024.2.17.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T13:08:21.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "oj_1054_2024.2.17.cpp",
+              "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1054_2024.2.17.cpp",
+              "RelativeDocumentMoniker": "work\\oj_1054_2024.2.17.cpp",
+              "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1054_2024.2.17.cpp",
+              "RelativeToolTip": "work\\oj_1054_2024.2.17.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T13:07:47.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "oj_1053_2024.2.17.cpp",
+              "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1053_2024.2.17.cpp",
+              "RelativeDocumentMoniker": "work\\oj_1053_2024.2.17.cpp",
+              "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1053_2024.2.17.cpp",
+              "RelativeToolTip": "work\\oj_1053_2024.2.17.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T13:07:01.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bj_1010_2024.3.24.cpp",
+              "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\bj_1010_2024.3.24.cpp",
+              "RelativeDocumentMoniker": "work\\bj_1010_2024.3.24.cpp",
+              "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\bj_1010_2024.3.24.cpp",
+              "RelativeToolTip": "work\\bj_1010_2024.3.24.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T10:40:21.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
