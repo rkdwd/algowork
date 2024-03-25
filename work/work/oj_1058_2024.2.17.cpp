@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main() {
+int main_oj_1058() {
 	string n;
 	cin >> n;
 

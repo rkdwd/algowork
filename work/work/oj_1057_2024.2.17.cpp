@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {
+int main_oj_1057() {
 	int n;
 	string str[101];
 	cin >> n;

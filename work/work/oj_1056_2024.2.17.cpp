@@ -2,8 +2,8 @@
 
 using namespace std;
 
-int main() {
-	int n, found;
+int main_oj_1056() {
+	int n, found = 0;
 	string str, ch;
 	cin >> n >> ch;
 
