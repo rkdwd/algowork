@@ -1,2 +1,6 @@
-﻿  oj_1055_2024.2.17.cpp
+﻿  test.cpp
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(14,14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(15,36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   work.vcxproj -> D:\강지원\컴퓨터 학원\ALGO\algowork\work\x64\Debug\work.exe
