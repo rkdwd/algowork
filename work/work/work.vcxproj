@@ -134,7 +134,10 @@
     <ClCompile Include="oj_1056_2024.2.17.cpp" />
     <ClCompile Include="oj_1057_2024.2.17.cpp" />
     <ClCompile Include="oj_1058_2024.2.17.cpp" />
+    <ClCompile Include="oj_1060_2024.2.18.cpp" />
+    <ClCompile Include="oj_1064_2024.2.18.cpp" />
     <ClCompile Include="oj_1079_2024.2.17.cpp" />
+    <ClCompile Include="oj_1090_2024.2.24.cpp" />
     <ClCompile Include="oj_1092_2024.2.17.cpp" />
     <ClCompile Include="oj_1114_2024.2.17.cpp" />
     <ClCompile Include="test.cpp" />
