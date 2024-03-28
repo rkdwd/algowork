@@ -7,7 +7,7 @@ void printNum(int w, int x) {
 	cout << x << endl;
 }
 
-int main() {
+int main_oj_2055() {
 	int a, b;
 	cin >> a >> b;
 

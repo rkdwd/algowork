@@ -1,14 +1,6 @@
 ﻿  test.cpp
-D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(15,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(22,32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(36,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
-  D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(36,11):
-  서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
-  D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(36,11):
-  서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
-  D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(36,11):
-  서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
-  
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(22,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(30,32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   work.vcxproj -> D:\강지원\컴퓨터 학원\ALGO\algowork\work\x64\Debug\work.exe

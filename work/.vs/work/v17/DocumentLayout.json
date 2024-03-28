@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|solutionrelative:work\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\bj_11399_2024.3.28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|solutionrelative:work\\bj_11399_2024.3.28.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_2055_2024.2.24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{317BC235-4304-4187-9C73-777C478838D3}|work\\work.vcxproj|solutionrelative:work\\oj_2055_2024.2.24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -70,37 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "oj_1092_2024.2.17.cpp",
-              "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1092_2024.2.17.cpp",
-              "RelativeDocumentMoniker": "work\\oj_1092_2024.2.17.cpp",
-              "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1092_2024.2.17.cpp",
-              "RelativeToolTip": "work\\oj_1092_2024.2.17.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-26T12:50:42.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "oj_1114_2024.2.17.cpp",
-              "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1114_2024.2.17.cpp",
-              "RelativeDocumentMoniker": "work\\oj_1114_2024.2.17.cpp",
-              "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1114_2024.2.17.cpp",
-              "RelativeToolTip": "work\\oj_1114_2024.2.17.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-26T12:51:14.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "oj_2055_2024.2.24.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_2055_2024.2.24.cpp",
               "RelativeDocumentMoniker": "work\\oj_2055_2024.2.24.cpp",
@@ -113,20 +91,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "oj_1092_2024.2.17.cpp",
+              "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1092_2024.2.17.cpp",
+              "RelativeDocumentMoniker": "work\\oj_1092_2024.2.17.cpp",
+              "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1092_2024.2.17.cpp",
+              "RelativeToolTip": "work\\oj_1092_2024.2.17.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T12:50:42.748Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\test.cpp",
               "RelativeDocumentMoniker": "work\\test.cpp",
               "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\test.cpp",
               "RelativeToolTip": "work\\test.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-25T11:55:15.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "bj_11399_2024.3.28.cpp",
+              "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\bj_11399_2024.3.28.cpp",
+              "RelativeDocumentMoniker": "work\\bj_11399_2024.3.28.cpp",
+              "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\bj_11399_2024.3.28.cpp",
+              "RelativeToolTip": "work\\bj_11399_2024.3.28.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-28T12:52:45.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "oj_1114_2024.2.17.cpp",
+              "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1114_2024.2.17.cpp",
+              "RelativeDocumentMoniker": "work\\oj_1114_2024.2.17.cpp",
+              "ToolTip": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1114_2024.2.17.cpp",
+              "RelativeToolTip": "work\\oj_1114_2024.2.17.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T12:51:14.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "oj_1090_2024.2.24.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1090_2024.2.24.cpp",
               "RelativeDocumentMoniker": "work\\oj_1090_2024.2.24.cpp",
@@ -134,12 +149,11 @@
               "RelativeToolTip": "work\\oj_1090_2024.2.24.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T13:54:25.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T13:54:25.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "oj_1079_2024.2.17.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1079_2024.2.17.cpp",
               "RelativeDocumentMoniker": "work\\oj_1079_2024.2.17.cpp",
@@ -147,12 +161,11 @@
               "RelativeToolTip": "work\\oj_1079_2024.2.17.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-26T12:49:47.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T12:49:47.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "oj_1064_2024.2.18.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1064_2024.2.18.cpp",
               "RelativeDocumentMoniker": "work\\oj_1064_2024.2.18.cpp",
@@ -160,12 +173,11 @@
               "RelativeToolTip": "work\\oj_1064_2024.2.18.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T13:53:17.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T13:53:17.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "oj_1060_2024.2.18.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1060_2024.2.18.cpp",
               "RelativeDocumentMoniker": "work\\oj_1060_2024.2.18.cpp",
@@ -173,12 +185,11 @@
               "RelativeToolTip": "work\\oj_1060_2024.2.18.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T13:52:37.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T13:52:37.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "oj_1058_2024.2.17.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1058_2024.2.17.cpp",
               "RelativeDocumentMoniker": "work\\oj_1058_2024.2.17.cpp",
@@ -186,12 +197,11 @@
               "RelativeToolTip": "work\\oj_1058_2024.2.17.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-25T11:32:39.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T11:32:39.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "oj_1057_2024.2.17.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1057_2024.2.17.cpp",
               "RelativeDocumentMoniker": "work\\oj_1057_2024.2.17.cpp",
@@ -199,12 +209,11 @@
               "RelativeToolTip": "work\\oj_1057_2024.2.17.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-25T11:32:08.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T11:32:08.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "oj_1056_2024.2.17.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1056_2024.2.17.cpp",
               "RelativeDocumentMoniker": "work\\oj_1056_2024.2.17.cpp",
@@ -212,12 +221,11 @@
               "RelativeToolTip": "work\\oj_1056_2024.2.17.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-25T11:31:39.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T11:31:39.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "oj_1055_2024.2.17.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1055_2024.2.17.cpp",
               "RelativeDocumentMoniker": "work\\oj_1055_2024.2.17.cpp",
@@ -225,12 +233,11 @@
               "RelativeToolTip": "work\\oj_1055_2024.2.17.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-24T13:08:21.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T13:08:21.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "oj_1054_2024.2.17.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1054_2024.2.17.cpp",
               "RelativeDocumentMoniker": "work\\oj_1054_2024.2.17.cpp",
@@ -238,12 +245,11 @@
               "RelativeToolTip": "work\\oj_1054_2024.2.17.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-24T13:07:47.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T13:07:47.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "oj_1053_2024.2.17.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\oj_1053_2024.2.17.cpp",
               "RelativeDocumentMoniker": "work\\oj_1053_2024.2.17.cpp",
@@ -251,12 +257,11 @@
               "RelativeToolTip": "work\\oj_1053_2024.2.17.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-24T13:07:01.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T13:07:01.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "bj_1010_2024.3.24.cpp",
               "DocumentMoniker": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\work\\work\\bj_1010_2024.3.24.cpp",
               "RelativeDocumentMoniker": "work\\bj_1010_2024.3.24.cpp",
@@ -264,8 +269,7 @@
               "RelativeToolTip": "work\\bj_1010_2024.3.24.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-24T10:40:21.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-24T10:40:21.976Z"
             }
           ]
         }
