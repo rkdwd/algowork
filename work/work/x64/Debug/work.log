@@ -1,9 +1,4 @@
 ﻿  FileName.cpp
-  test.cpp
-D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\FileName.cpp(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(22,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\test.cpp(30,32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  코드를 생성하고 있습니다...
-  work.vcxproj -> D:\강지원\컴퓨터 학원\ALGO\algowork\work\x64\Debug\work.exe
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\work\FileName.cpp(27,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+FileName.obj : error LNK2005: "void __cdecl PrintNum(int)" (?PrintNum@@YAXH@Z)이(가) bj_15649_2024.3.29.obj에 이미 정의되어 있습니다.
+D:\강지원\컴퓨터 학원\ALGO\algowork\work\x64\Debug\work.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

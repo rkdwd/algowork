@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main() {
+int main_bj_2502() {
 	// d, k ют╥б
 	int d, k;
 	scanf("%d %d", &d, &k);
