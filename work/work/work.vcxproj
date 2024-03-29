@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="bj_1010_2024.3.24.cpp" />
     <ClCompile Include="bj_11399_2024.3.28.cpp" />
+    <ClCompile Include="bj_2502_2024.3.29.cpp" />
     <ClCompile Include="oj_1053_2024.2.17.cpp" />
     <ClCompile Include="oj_1054_2024.2.17.cpp" />
     <ClCompile Include="oj_1055_2024.2.17.cpp" />

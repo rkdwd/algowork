@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {
+int main_oj_2056() {
 	string a[10] = { "zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
 
 	int m, n;
