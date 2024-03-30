@@ -90,5 +90,8 @@
     <ClCompile Include="bj_1463_2024.3.30.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="oj_3036_2024.2.25.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
