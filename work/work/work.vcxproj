@@ -129,11 +129,13 @@
   <ItemGroup>
     <ClCompile Include="bj_1010_2024.3.24.cpp" />
     <ClCompile Include="bj_11399_2024.3.28.cpp" />
+    <ClCompile Include="bj_1463_2024.3.30.cpp" />
     <ClCompile Include="bj_15652_2024.3.29.cpp" />
     <ClCompile Include="bj_2502_2024.3.29.cpp" />
     <ClCompile Include="bj_15649_2024.3.29.cpp" />
     <ClCompile Include="bj_15650_2024.3.29.cpp" />
     <ClCompile Include="bj_15651_2024.3.29.cpp" />
+    <ClCompile Include="oj_3070.cpp" />
     <ClCompile Include="oj_1053_2024.2.17.cpp" />
     <ClCompile Include="oj_1054_2024.2.17.cpp" />
     <ClCompile Include="oj_1055_2024.2.17.cpp" />
@@ -148,7 +150,8 @@
     <ClCompile Include="oj_1114_2024.2.17.cpp" />
     <ClCompile Include="oj_2055_2024.2.24.cpp" />
     <ClCompile Include="oj_2056_2024.2.24.cpp" />
-    <ClCompile Include="test.cpp" />
+    <ClCompile Include="oj_3011_2024.3.30.cpp" />
+    <ClCompile Include="bj_1722.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

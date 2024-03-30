@@ -36,7 +36,7 @@
     <ClCompile Include="oj_1058_2024.2.17.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="bj_1722.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="oj_1079_2024.2.17.cpp">
@@ -79,6 +79,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="bj_15652_2024.3.29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="oj_3070.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="oj_3011_2024.3.30.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1463_2024.3.30.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
