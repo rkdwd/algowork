@@ -15,7 +15,7 @@ void Attach(int x, int y) {
 	}
 }
 
-int main_bj_2563() {
+int main() {
 	int n;
 	scanf("%d", &n);
 
