@@ -35,7 +35,7 @@ void printParent() {
     }
 }
 
-int main() {
+int main_bj_11725() {
     input();
     findParent(1);
     printParent();

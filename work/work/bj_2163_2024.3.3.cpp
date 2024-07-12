@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main_bj_2163() {
 	int n, m;
 	scanf("%d %d", &n, &m);
 
