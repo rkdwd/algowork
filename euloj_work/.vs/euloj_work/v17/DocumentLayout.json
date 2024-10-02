@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uAC15\uC9C0\uC6D0\\\uCEF4\uD4E8\uD130 \uD559\uC6D0\\ALGO\\algowork\\euloj_work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5118BF3C-5719-419C-94DB-AA319B644B3C}|euloj_work\\euloj_work.vcxproj|C:\\Users\\USER\\Desktop\\oj_1056_2024.2.17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "oj_1056_2024.2.17.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\oj_1056_2024.2.17.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\oj_1056_2024.2.17.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-21T01:32:45.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
